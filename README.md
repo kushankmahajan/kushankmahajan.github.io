@@ -162,7 +162,7 @@
 		<div class="sub">Jul 2017 - Mar 2018</div>
 	</div>
 	<div class="skills2">
-		ORGANISER(RM HACKATHON BY IT ASSOCIATION)
+		ORGANISER(SRM HACKATHON BY IT ASSOCIATION)
 		
 		<div class="sub">Oct 2017 - Oct 2017</div>
 	</div>
